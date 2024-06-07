@@ -19,7 +19,7 @@ A poluição das praias é um problema ambiental significativo. Este projeto vis
 5. Abra o monitor serial para visualizar as mudanças na taxa de iluminação, temperatura e umidade.
 6. Observe o comportamento dos LEDS, buzzer e display conforme as mudanças ocorrem.
 # LINKS
-wokwi: https://wokwi.com/projects/399704082119329793
+wokwi: https://wokwi.com/projects/400061646221735937
 # INTEGRANTES
 - Gustavo Morais RM554972
 - Leonardo Novaes RM554807
